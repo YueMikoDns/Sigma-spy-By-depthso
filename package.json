@@ -1,0 +1,9 @@
+{
+  "name": "sigma-spy",
+  "version": "1.0.0",
+  "description": "SigmaSpy Project",
+  "scripts": {
+    "build": "echo 'Build handled by Lune/Lua'"
+  },
+  "private": true
+}
